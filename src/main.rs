@@ -3,5 +3,4 @@
 
 fn main() {
      println!("Hello, world!");
-     println!("Goodbye as well, world!");
 }
